@@ -1,2 +1,2 @@
 # portfolio
-my coding projects
+my more interesting coding projects undertaken in University
